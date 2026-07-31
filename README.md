@@ -1,5 +1,5 @@
 # Plot-Platter
-A CoreXY-inspired pen plotter gantry. Designed with the intent to be mostly 3D printed while still maintaining high rigidity through tight tolerances. This is only V1 of this project; I intend to reproduce this and test it in later revisions.
+A CoreXY-inspired pen plotter gantry. Designed with the intent to be mostly 3D printed while still maintaining high rigidity through tight tolerances. This is only V1 of this project; I intend to reproduce this and test it in later revisions. Also, no AI was used in this project, aside from Grammarly for the README.
 
 <img width="1353" height="686" alt="image" src="https://github.com/user-attachments/assets/b7563c6e-bd1b-4691-a981-a0a07f77113d" />
 <img width="1551" height="602" alt="image" src="https://github.com/user-attachments/assets/4450e80e-820b-4062-94d1-7989f7b20242" />
